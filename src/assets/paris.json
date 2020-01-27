@@ -1,0 +1,116 @@
+{
+  "location": {
+    "woeid": 615702,
+    "city": "Paris",
+    "region": " Ile-de-France",
+    "country": "France",
+    "lat": 48.85693,
+    "long": 2.3412,
+    "timezone_id": "Europe/Paris"
+  },
+  "current_observation": {
+    "wind": {
+      "chill": 7,
+      "direction": 195,
+      "speed": 25.0
+    },
+    "atmosphere": {
+      "humidity": 82,
+      "visibility": 16.1,
+      "pressure": 1005.0,
+      "rising": 0
+    },
+    "astronomy": {
+      "sunrise": "8:40 am",
+      "sunset": "5:20 pm"
+    },
+    "condition": {
+      "text": "Breezy",
+      "code": 23,
+      "temperature": 10
+    },
+    "pubDate": 1578942000
+  },
+  "forecasts": [
+    {
+      "day": "Mon",
+      "date": 1578870000,
+      "low": 7,
+      "high": 10,
+      "text": "Cloudy",
+      "code": 26
+    },
+    {
+      "day": "Tue",
+      "date": 1578956400,
+      "low": 9,
+      "high": 11,
+      "text": "Breezy",
+      "code": 23
+    },
+    {
+      "day": "Wed",
+      "date": 1579042800,
+      "low": 6,
+      "high": 11,
+      "text": "Scattered Showers",
+      "code": 39
+    },
+    {
+      "day": "Thu",
+      "date": 1579129200,
+      "low": 5,
+      "high": 12,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Fri",
+      "date": 1579215600,
+      "low": 6,
+      "high": 11,
+      "text": "Showers",
+      "code": 11
+    },
+    {
+      "day": "Sat",
+      "date": 1579302000,
+      "low": 3,
+      "high": 7,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Sun",
+      "date": 1579388400,
+      "low": 2,
+      "high": 7,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Mon",
+      "date": 1579474800,
+      "low": 1,
+      "high": 6,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Tue",
+      "date": 1579561200,
+      "low": 1,
+      "high": 6,
+      "text": "Mostly Sunny",
+      "code": 34
+    },
+    {
+      "day": "Wed",
+      "date": 1579647600,
+      "low": 0,
+      "high": 5,
+      "text": "Partly Cloudy",
+      "code": 30
+    }
+  ]
+}
