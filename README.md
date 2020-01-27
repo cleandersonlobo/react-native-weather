@@ -65,3 +65,9 @@ $ react-native run ios or android
 
 *	[Cleanderson Lobo](mailto:cleandersonlobo@gmail.com)
 
+
+## Flutter
+
+The same challenge but made with Flutter.
+
+- [flutter_weather_app](https://github.com/cleandersonlobo/flutter_weather_app)
